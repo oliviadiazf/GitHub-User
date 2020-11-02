@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_fav_avatar"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@color/design_default_color_primary_dark" />
+
+    <TextView
+        android:id="@+id/tv_fav_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="7dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:text="@string/name"
+        app:layout_constraintStart_toEndOf="@+id/img_fav_avatar"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_fav_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="7dp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="@string/username"
+        app:layout_constraintStart_toEndOf="@+id/img_fav_avatar"
+        app:layout_constraintTop_toBottomOf="@+id/tv_fav_name" />
+
+    <Button
+        android:id="@+id/btn_fav_delete"
+        android:layout_width="47dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="0dp"
+        android:drawableStart="@drawable/ic_baseline_delete_24"
+        app:layout_constraintTop_toTopOf="@id/btn_fav_delete"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="RtlSymmetry"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

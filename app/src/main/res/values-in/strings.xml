@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User3</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="unfavorite">Favorited</string>
+    <string name="setting">GitHub User</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="keterangan">Aplikasi akan diaktifkan kembali jam 09.00 WIB</string>
+    <string name="pengaturan_bahasa">Pengaturan Bahasa</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_keterangan">Hapus dari daftar favorit?</string>
+    <string name="yes">Ya</string>
+    <string name="delete_from_favorite">Berhasil menghapus dari daftar favorit</string>
+    <string name="no">Tidak</string>
+    <string name="successfully_add_to_favorite">Berhasil ditambahkan ke daftar favorit</string>
+    <string name="user_not_found">User tidak ditemukan</string>
+    <string name="keterangan_bahasa">Atur bahasa yang digunakan</string>
+    <string name="Title">GitHub User</string>
+    <string name="empty_favorite_list">Daftar favorit kosong</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Alamat</string>
+    <string name="link">Tautan</string>
+    <string name="github_user_splash">GITHUB USER</string>
+</resources>

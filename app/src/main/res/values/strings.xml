@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GitHub User3</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="unfavorite">Favorited</string>
+    <string name="setting">GitHub User</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="keterangan">Will reactivate the app at 9 AM</string>
+    <string name="pengaturan_bahasa">Language Setting</string>
+    <string name="delete">Delete</string>
+    <string name="delete_keterangan">Delete from favorite?</string>
+    <string name="yes">Yes</string>
+    <string name="delete_from_favorite">Delete from favorite</string>
+    <string name="no">No</string>
+    <string name="successfully_add_to_favorite">Successfully add to favorite</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="keterangan_bahasa">Set the Language Used</string>
+    <string name="Title">GitHub User</string>
+    <string name="empty_favorite_list">Empty Favorite List</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="link">Link</string>
+    <string name="github_user_splash">GITHUB USER</string>
+</resources>
