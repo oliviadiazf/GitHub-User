@@ -1,5 +1,5 @@
 # GitHub-User
-Menggunakan ROOM Database, CRUD, content provider, notification broadcast, setting language, menggunakan bahasa pemrograman java.
+Aplikasi berbasis android yang ,enggunakan ROOM Database, CRUD, content provider, notification broadcast, setting language, menggunakan bahasa pemrograman java.
 
 <img src="https://user-images.githubusercontent.com/64765463/97827707-a3784480-1cf7-11eb-8539-f12ab1c10f5d.png" width=270px height=480px> <img src="https://user-images.githubusercontent.com/64765463/97827709-a5420800-1cf7-11eb-9ae9-a0775425a511.png" width=270px height=480px>
 <img src="https://user-images.githubusercontent.com/64765463/97827710-a5da9e80-1cf7-11eb-9fc2-c60088118f93.png" width=270px height=480px>
